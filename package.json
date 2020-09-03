@@ -9,7 +9,7 @@
     "format": "npm run format:check -- --write"
   },
   "dependencies": {
-    "puppeteer": "^1.10.0"
+    "puppeteer": "^1.13.0"
   },
   "devDependencies": {
     "@types/node": "^10.12.5",
